@@ -5,7 +5,7 @@ How to Contact Hulu TV?: A Complete Guide
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: contact.png
+.. image:: contact1.png
    :alt: My Project Logo
    :width: 400px
    :align: center
